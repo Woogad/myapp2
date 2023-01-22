@@ -1,5 +1,9 @@
 # Getting Started with Create React App
+<<<<<<< HEAD
 nononot
+=======
+ooop
+>>>>>>> 3d1546f9cc56e3bbd6b634a41731c5ea9796897b
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
